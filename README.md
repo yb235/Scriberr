@@ -198,11 +198,27 @@ Scriberr exposes a clean REST API for most features (transcription, chat, notes,
 - Quick start examples (cURL and JS) on the API page
 - Generate or manage API keys in the app
 
+## Documentation
+
+Comprehensive documentation is available in the `docs/` folder:
+
+- **[Overview](docs/OVERVIEW.md)** - Introduction, features, and getting started
+- **[Architecture](docs/ARCHITECTURE.md)** - System design and components
+- **[API Reference](docs/API.md)** - Complete REST API documentation
+- **[Transcription Guide](docs/TRANSCRIPTION.md)** - Models, parameters, and optimization
+- **[Database Schema](docs/DATABASE.md)** - Models and data structure
+- **[Frontend Guide](docs/FRONTEND.md)** - React components and architecture
+- **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment options
+- **[Development Guide](docs/DEVELOPMENT.md)** - Local setup and contributing
+- **[Workflows](docs/WORKFLOW.md)** - End-to-end usage examples
+
 ## Contributing
 
 Issues and PRs are welcome. Please open an issue to discuss large changes first and keep PRs focused.
 
-Local dev overview:
+For detailed development setup, see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).
+
+Quick start:
 
 ```bash
 # Backend (dev)
